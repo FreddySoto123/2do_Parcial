@@ -13,9 +13,6 @@ function App() {
   return (
     <>
 
-
-    <Componente1/>
-    <Componente2/>
     <Composicion/>
 
     </>
