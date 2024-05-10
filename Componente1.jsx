@@ -1,8 +1,7 @@
 import React from 'react'
-
 const Componente1 = () => {
   return (
-    <a href="rectangle.png"></a>
+    <img src="../../rectangle.png" alt="" />
   )
 }
 
